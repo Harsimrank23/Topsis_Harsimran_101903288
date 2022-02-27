@@ -8,7 +8,7 @@ setup(
   author = 'Harsimran Kaur',                
   author_email = 'hkaur3_be19@thapar.edu',      
   url = 'https://github.com/Harsimrank23/Topsis_Harsimran_101903288',   
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    
+  download_url = 'https://github.com/Harsimrank23/Topsis_Harsimran_101903288/archive/refs/heads/main.zip',    
   keywords = ['topsis', 'topsis score', 'rank','Thapar']
   install_requires=['numpy','pandas' ],
   classifiers=[
